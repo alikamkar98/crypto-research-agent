@@ -1,0 +1,7 @@
+project_id = "tmtjmvprzvyslzursmhk"
+
+[functions.ingest-news]
+verify_jwt = false
+
+[functions.ask]
+verify_jwt = false
